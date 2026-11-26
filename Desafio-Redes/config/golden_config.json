@@ -1,0 +1,13 @@
+{
+    "interfaces": [
+        {
+            "name": "Loopback100",
+            "description": "Managed by Network Manager",
+            "enabled": true,
+            "ipv4": {
+                "ip": "10.100.0.1",
+                "netmask": "255.255.255.255"
+            }
+        }
+    ]
+}
